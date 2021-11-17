@@ -1,0 +1,46 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1aee9573-c646-7512-7f8a-11b72f04879e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Inference from Data and Models",
+  "course_description": "This course covers the fundamental methods used for exploring the information content of observations related to kinematical and dynamical models.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.864",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Programming Assignments",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
